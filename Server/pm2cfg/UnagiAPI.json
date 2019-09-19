@@ -1,0 +1,5 @@
+{
+    "name": "UnagiAPI",
+    "script": "/var/www/Server/bin/www",
+    "cwd": "/var/www/Server/bin"
+}
