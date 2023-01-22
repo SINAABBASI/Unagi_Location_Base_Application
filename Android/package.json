@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "email-validator": "^1.1.1",
     "fetch": "^1.1.0",
     "react": "16.0.0-alpha.12",
